@@ -5,3 +5,6 @@ const d = true;
 
 export default a; 
 
+export {b}; 
+export {c}; 
+export {d}; 
